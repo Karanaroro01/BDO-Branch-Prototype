@@ -1,0 +1,5 @@
+{
+  "name": "BDO Investment & Trust Group - Operations System",
+  "description": "A desktop-first prototype designed for Trust/Investment Desk Officers to handle Investment Management Accounts (IMA) and Unit Investment Trust Funds (UITF). The system simulates all major workflows including client onboarding, account management, transactions, and compliance checks.",
+  "requestFramePermissions": []
+}
